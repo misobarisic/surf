@@ -6,7 +6,7 @@
 </p>
 
 ## About
-This is my personal build of surf.
+This is my personal build of [surf](https://surf.suckless.org/).
 
 ## Patches
 - homepage
